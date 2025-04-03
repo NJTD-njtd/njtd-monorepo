@@ -29,8 +29,8 @@
     "rootDir": "."
   },
   "include": [
-    "../../apps/NJTD/.next/types/**/*.ts",
-    "../../dist/apps/NJTD/.next/types/**/*.ts",
+    "../../apps/SVGPathGenerator/.next/types/**/*.ts",
+    "../../dist/apps/SVGPathGenerator/.next/types/**/*.ts",
     "app/**/*.js",
     "app/**/*.jsx",
     "app/**/*.ts",

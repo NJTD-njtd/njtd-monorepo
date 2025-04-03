@@ -1,0 +1,10 @@
+{
+  "name": "@njtd-monorepo/with-tests-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@njtd-monorepo/with-tests"
+    ]
+  }
+}

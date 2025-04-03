@@ -1,0 +1,10 @@
+{
+  "name": "@njtd-monorepo/ui",
+  "version": "0.0.1",
+  "main": "./src/index.js",
+  "types": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./package.json": "./package.json"
+  }
+}

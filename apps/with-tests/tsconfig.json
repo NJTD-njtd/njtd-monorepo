@@ -25,12 +25,16 @@
         "./*"
       ]
     },
+    "types": [
+      "jest",
+      "node"
+    ],
     "outDir": "dist",
     "rootDir": "."
   },
   "include": [
-    "../../apps/NJTD/.next/types/**/*.ts",
-    "../../dist/apps/NJTD/.next/types/**/*.ts",
+    "../../apps/with-tests/.next/types/**/*.ts",
+    "../../dist/apps/with-tests/.next/types/**/*.ts",
     "app/**/*.js",
     "app/**/*.jsx",
     "app/**/*.ts",

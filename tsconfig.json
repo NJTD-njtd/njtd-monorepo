@@ -5,6 +5,18 @@
   "references": [
     {
       "path": "./apps/njtd"
+    },
+    {
+      "path": "./apps/SVGPathGenerator"
+    },
+    {
+      "path": "./apps/with-tests-e2e"
+    },
+    {
+      "path": "./apps/with-tests"
+    },
+    {
+      "path": "./libs/shared/ui"
     }
   ]
 }
